@@ -74,7 +74,6 @@ def img_processing(img1):
 
 if __name__ == "__main__":
 
-	print('Starting')
 	outputFolder = args.outputFolderName
 	
 	color1 = args.color1
